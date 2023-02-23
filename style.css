@@ -1,0 +1,10 @@
+.inner{
+   padding: 20px;
+   margin: 5%;
+   border: 2px solid black;
+   /* border: chocolate 2px solid; */
+}
+.outer{
+border: dotted blueviolet;
+}
+
